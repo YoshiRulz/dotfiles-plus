@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=GTK;Utility;TextEditor;
+Comment=Text editor
+Exec=xed %U
+Icon=accessories-text-editor
+MimeType=text/plain;
+Name=xed
+StartupNotify=true
+Terminal=false
+Type=Application
