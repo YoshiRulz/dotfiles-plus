@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=GTK;Utility;TextEditor;
+Categories=GTK;TextEditor;Utility;
 Comment=Text editor
 Exec=xed %U
 Icon=accessories-text-editor
