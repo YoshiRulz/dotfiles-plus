@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=System;
+Comment=A modern, hackable, featureful, OpenGL based terminal emulator
+Exec=kitty
+GenericName=Terminal emulator
+Icon=kitty
+Name=kitty
+TryExec=kitty
+Type=Application
+Version=1.0

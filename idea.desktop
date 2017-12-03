@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Development;IDE;Java;
+Comment=Develop with pleasure!
+Exec=idea.sh %f
+Icon=idea
+Name=IDEA CE
+StartupNotify=true
+StartupWMClass=jetbrains-idea-ce
+Terminal=false
+Type=Application
+Version=1.0

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Development;RevisionControl;
+Comment=The highly caffeinated Git GUI
+Exec=git-cola --prompt
+Icon=git-cola
+Name=Git Cola
+StartupNotify=true
+Terminal=false
+TryExec=git-cola
+Type=Application

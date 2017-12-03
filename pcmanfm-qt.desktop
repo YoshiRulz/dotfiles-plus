@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Core;FileManager;Utility;Qt;
+Comment=Browse the file system and manage the files
+Exec=pcmanfm-qt %U
+GenericName=File Manager
+Icon=system-file-manager
+MimeType=inode/directory;
+Name=PCManFM File Manager
+StartupNotify=true
+Type=Application
