@@ -1,0 +1,104 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="jtysh" values="Application" collectionTime="1512793263778" />
+      <project id="JTysh" values="JUnit,Application" collectionTime="1513826385879" />
+    </group>
+    <group name="module type">
+      <project id="JTysh-NL" values="JAVA_MODULE" collectionTime="1512991094982" />
+      <project id="jtysh" values="JAVA_MODULE" collectionTime="1512793263770" />
+      <project id="SciLib" values="JAVA_MODULE" collectionTime="1513518783138" />
+      <project id="JTysh" values="JAVA_MODULE" collectionTime="1513826385877" />
+    </group>
+    <group name="vcs">
+      <project id="JTysh-NL" values="Git" collectionTime="1512991094978" />
+      <project id="SciLib" values="Git" collectionTime="1513518783134" />
+      <project id="JTysh" values="Git" collectionTime="1513826385874" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="SciLib" values="data.users.count.1+,data.git.root.count.1,data.commit.count.1+,data.branches.count.1+" collectionTime="1513518783373" />
+      <project id="JTysh" values="data.git.root.count.1,data.commit.count.1+,data.users.count.1+,data.branches.count.1+" collectionTime="1513826386079" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="JTysh-NL" values="Application" collectionTime="1512991094984" />
+      <project id="JTysh" values="JUnit" collectionTime="1513826385880" />
+    </group>
+    <group name="file-type">
+      <project id="JTysh-NL" values="JAVA,PLAIN_TEXT,XML,IDEA_MODULE,HTML,CLASS" collectionTime="1512991095066" />
+      <project id="jtysh" values="PLAIN_TEXT,JAVA,IDEA_MODULE" collectionTime="1512793263914" />
+      <project id="SciLib" values="JAVA,PLAIN_TEXT" collectionTime="1513518783359" />
+      <project id="JTysh" values="PLAIN_TEXT,JAVA,IDEA_MODULE" collectionTime="1513826386049" />
+    </group>
+    <group name="images.ide.background">
+      <project id="JTysh-NL" values="frame 0,editor 0" collectionTime="1512991095070" />
+      <project id="jtysh" values="editor 0,frame 0" collectionTime="1512793263934" />
+      <project id="SciLib" values="frame 0,editor 0" collectionTime="1513518783393" />
+      <project id="JTysh" values="frame=0,editor=0" collectionTime="1513826386081" />
+    </group>
+    <group name="module-language-level">
+      <project id="JTysh-NL" values="JDK_1_8" collectionTime="1512991095074" />
+      <project id="jtysh" values="JDK_1_8" collectionTime="1512793263971" />
+      <project id="SciLib" values="JDK_1_8" collectionTime="1513518783406" />
+      <project id="JTysh" values="JDK_1_8" collectionTime="1513826386102" />
+    </group>
+    <group name="Git">
+      <project id="JTysh-NL" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.disabled,data.remotes.in.project.1,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remote.branches.count.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1512991095076" />
+      <project id="jtysh" values="config.force.push.enabled,data.remotes.in.project.1,data.local.branches.count.1,config.push.autoupdate.disabled,data.remote.branches.count.1,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,config.push.update.all.roots.enabled" collectionTime="1511594961162" />
+      <project id="SciLib" values="config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.ssh.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1" collectionTime="1513518783407" />
+      <project id="JTysh" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.disabled" collectionTime="1513826386103" />
+    </group>
+    <group name="vcs-options">
+      <project id="JTysh-NL" values="commit.before.rearrange.disabled,perform.rollback.in.background.disabled,offer.move.failed.committed.do_nothing_silently,show.changes.preview.disabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.enabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,commit.before.check.todo.enabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,commit.before.check.files.up.to.date.disabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,commit.before.reformat.file.disabled,offer.move.partially.committed.disabled,perform.checkout.in.background.enabled,commit.before.check.code.cleanup.disabled" collectionTime="1512991094980" />
+      <project id="jtysh" values="offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,commit.use.right.margin.enabled,include.text.into.shelf.enabled,commit.before.optimize.imports.disabled,offer.remove.empty.changelist.show_confirmation,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.files.up.to.date.disabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.check.code.cleanup.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,show.changes.preview.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.reformat.file.disabled" collectionTime="1512793263765" />
+      <project id="SciLib" values="commit.before.rearrange.disabled,offer.move.partially.committed.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.smell.enabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,commit.before.check.non.empty.comment.disabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.file.disabled,offer.remove.empty.changelist.show_confirmation,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,perform.commit.in.background.enabled,check.conflicts.in.background.disabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,changelist.make.new.active.disabled,commit.before.check.files.up.to.date.disabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1513518783136" />
+      <project id="JTysh" values="offer.remove.empty.changelist.show_confirmation,check.conflicts.in.background.disabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,commit.show.unversioned.enabled,commit.before.optimize.imports.disabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,perform.edit.in.background.enabled,perform.commit.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.file.disabled,commit.use.right.margin.enabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,commit.before.check.code.smell.enabled" collectionTime="1513826385875" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Version_Control].hidden" count="6" />
+      <entry feature="StripeButton[Version_Control].shown" count="3" />
+      <entry feature="debugger.reload.classes" count="1" />
+      <entry feature="execute.Application.Debug" count="68" />
+      <entry feature="execute.Application.Run" count="384" />
+      <entry feature="execute.CargoCommandRunConfiguration.Run" count="4" />
+      <entry feature="execute.JUnit.Run" count="13" />
+      <entry feature="ide.help.reference.settingsdialog.IDE.editor.colors" count="2" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.settings.Appearance" count="10" />
+      <entry feature="ide.settings.Code_Style" count="16" />
+      <entry feature="ide.settings.Compiler" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="21" />
+      <entry feature="ide.settings.Firefox_Settings" count="1" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.Inspections" count="89" />
+      <entry feature="ide.settings.JSON" count="1" />
+      <entry feature="ide.settings.Java" count="13" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ide.settings.Java_Type_Renderers" count="2" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Notifications" count="1" />
+      <entry feature="ide.settings.Plugins" count="5" />
+      <entry feature="ide.settings.Project_Structure" count="2" />
+      <entry feature="ide.settings.Rust" count="1" />
+      <entry feature="ide.settings.Terminal" count="1" />
+      <entry feature="ide.settings.Web_Browsers" count="4" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="85" />
+      <entry feature="project.view.pane.PackagesPane" count="12" />
+      <entry feature="project.view.pane.ProjectPane" count="3" />
+      <entry feature="project.view.pane.Scope.Project Files" count="1" />
+      <entry feature="structural.replace" count="1" />
+      <entry feature="terminal.linux" count="35" />
+      <entry feature="tips.of.the.day.next" count="10" />
+      <entry feature="tips.of.the.day.prev" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+    </counts>
+  </component>
+</application>

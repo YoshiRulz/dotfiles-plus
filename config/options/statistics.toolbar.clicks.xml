@@ -1,0 +1,53 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CompileDirty@NavBarToolbar" count="118" />
+      <entry action="Debug@NavBarToolbar" count="50" />
+      <entry action="EditInspectionSettings@CodeInspection" count="1" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="3" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="1" />
+      <entry action="FileChooser.ShowHiddens@FileChooserDialog" count="2" />
+      <entry action="Rerun@DebuggerToolbar" count="18" />
+      <entry action="Rerun@RunnerToolbar" count="63" />
+      <entry action="Resume@DebuggerToolbar" count="9" />
+      <entry action="Run@NavBarToolbar" count="334" />
+      <entry action="Rust.RefreshCargoProject@Cargo_Toolbar" count="1" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="2" />
+      <entry action="StepInto@DebuggerToolbar" count="227" />
+      <entry action="StepOut@DebuggerToolbar" count="2" />
+      <entry action="StepOver@DebuggerToolbar" count="13" />
+      <entry action="Stop@DebuggerToolbar" count="21" />
+      <entry action="Stop@NavBarToolbar" count="25" />
+      <entry action="Stop@RunnerToolbar" count="5" />
+      <entry action="UsageView.Rerun@UsageViewToolbar" count="5" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="2" />
+      <entry action="com.intellij.analysis.AnalysisUIOptions$2@CodeInspection" count="2" />
+      <entry action="com.intellij.analysis.AnalysisUIOptions$4@CodeInspection" count="4" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="13" />
+      <entry action="com.intellij.codeInspection.ui.CloseAction@CodeInspection" count="2" />
+      <entry action="com.intellij.codeInspection.ui.RerunAction@CodeInspection" count="43" />
+      <entry action="com.intellij.compiler.impl.CompilerPropertiesAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.execution.junit2.ui.actions.RerunFailedTestsAction@RunnerToolbar" count="3" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@ConsoleRunner" count="1" />
+      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="10" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@SingleInspectionProfile" count="9" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$HideWarningsAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$RerunAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.ide.util.importProject.ProjectLayoutPanel$RenameAction@ProjectLayoutPanel.Entries" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@EditorToolbar" count="2" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="3" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.classpath.ClasspathPanelImpl$6@ToolbarDecorator" count="4" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.JavadocOrderRootTypeUIFactory$JavadocPathsEditor$1@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.packageDependencies.ui.DependenciesPanel$RerunAction@PackageDependencies" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="8" />
+      <entry action="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction@CodeInspection" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="49" />
+      <entry action="com.intellij.util.ui.table.TableModelEditor$4@ToolbarDecorator" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>
