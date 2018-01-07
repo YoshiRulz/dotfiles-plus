@@ -1,5 +1,6 @@
-# v2018-01-07/00
+# v2018-01-07/01
 
+if [ "$TERM" = "xterm-kitty" ]; then export TERM="xterm"; fi
 i=0
 for c in BLACK RED GREEN YELLOW BLUE MAGENTA CYAN WHITE; do
 	export ANSI_$c="\[$(tput setaf $i)\]"
@@ -13,7 +14,6 @@ export PS1="$ANSI_GREEN$(id -nu | sed s/$USER_FIND/$USER_REPL/)$ANSI_B_WHITE@$AN
 
 export EDITOR="/usr/bin/nano"
 export VISUAL="/usr/bin/xed"
-if [ "$TERM" = "xterm-kitty" ]; then export TERM="xterm"; fi
 
 
 
