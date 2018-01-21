@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Categories=Graphics;2DGraphics;RasterGraphics;GTK;
 Comment=Create images and edit photographs
 Exec=gimp-2.8 %U
@@ -9,4 +10,3 @@ StartupNotify=true
 Terminal=false
 TryExec=gimp-2.8
 Type=Application
-Version=1.0

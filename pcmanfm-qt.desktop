@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Categories=Core;FileManager;Utility;Qt;
 Comment=Browse the file system and manage the files
 Exec=pcmanfm-qt %U

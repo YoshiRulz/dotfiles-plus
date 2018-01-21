@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Categories=GTK;TextEditor;Utility;
 Comment=Text editor
 Exec=xed %U

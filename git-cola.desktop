@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Categories=Development;RevisionControl;
 Comment=The highly caffeinated Git GUI
 Exec=git-cola --prompt

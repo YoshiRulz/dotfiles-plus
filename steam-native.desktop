@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Categories=Game;FileTransfer;Network;
 Comment=Application for managing and playing games on Steam
 Exec=/usr/bin/steam-native %U
