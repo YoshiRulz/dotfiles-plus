@@ -1,16 +1,9 @@
-# v2018-01-07/01
+# v2018-01-31/00
 
 if [ "$TERM" = "xterm-kitty" ]; then export TERM="xterm"; fi
-i=0
-for c in BLACK RED GREEN YELLOW BLUE MAGENTA CYAN WHITE; do
-	export ANSI_$c="\[$(tput setaf $i)\]"
-	export ANSI_B_$c="\[$(tput setaf $((8+$i)))\]"
-	i=$((i+1))
-done
-export ANSI_RESET="\[$(tput sgr0)\]"
 
-USER_FIND="yoshi"; USER_REPL="♥Ԑ═З"
-export PS1="$ANSI_GREEN$(id -nu | sed s/$USER_FIND/$USER_REPL/)$ANSI_B_WHITE@$ANSI_MAGENTA$(hostname | sed s/$USER_FIND-//)$ANSI_B_WHITE:$ANSI_CYAN\w$ANSI_RED\$>$ANSI_RESET "
+export PS9="$(ruby -e 'require "colorize"; find = "yoshi"; repl = "♥Ԑ═З"; puts %x{id -nu}.chomp.sub(find, repl).colorize(:green) + "@".colorize(:light_white) + %x{hostname}.chomp.sub("#{find}-", "").colorize(:magenta) + ":".colorize(:light_white) + "\\w".colorize(:cyan) + "\\$>".colorize(:red) + " "')"
+export PS1="$PS9"
 
 export EDITOR="/usr/bin/nano"
 export VISUAL="/usr/bin/xed"
