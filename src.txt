@@ -1,0 +1,1 @@
+based on sddm-qt-manjaro-theme in Manjaro's community repo
